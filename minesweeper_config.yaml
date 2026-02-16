@@ -1,0 +1,4 @@
+# Configuration for smart Minesweeper agent
+max_new_tokens: 20
+temperature: 0.1
+do_sample: false
